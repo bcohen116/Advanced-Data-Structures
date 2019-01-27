@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConvertBaseSkeleton.cpp
+     Creating library F:\Users\Ben\Downloads\ConvertBaseSkeleton\x64\Debug\ConvertBaseSkeleton.lib and object F:\Users\Ben\Downloads\ConvertBaseSkeleton\x64\Debug\ConvertBaseSkeleton.exp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+F:\Users\Ben\Downloads\ConvertBaseSkeleton\x64\Debug\ConvertBaseSkeleton.exe : fatal error LNK1120: 1 unresolved externals
