@@ -1,0 +1,6 @@
+Str: 18
+Con: 18
+Dex: 18
+Wis: 18
+Int: 18
+Chr: 18

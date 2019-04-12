@@ -1,1 +1,4 @@
-﻿  UnitTest1.vcxproj -> F:\Users\Ben\Downloads\ConvertBaseSkeleton\Debug\UnitTest1.dll
+﻿  stdafx.cpp
+  unittest1.cpp
+     Creating library F:\Users\Ben\Documents\GitHub\Advanced-Data-Structures\ConvertBaseSkeleton\Debug\UnitTest1.lib and object F:\Users\Ben\Documents\GitHub\Advanced-Data-Structures\ConvertBaseSkeleton\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> F:\Users\Ben\Documents\GitHub\Advanced-Data-Structures\ConvertBaseSkeleton\Debug\UnitTest1.dll
